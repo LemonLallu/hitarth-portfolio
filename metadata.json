@@ -1,0 +1,6 @@
+{
+  "name": "Hitarth Baldha PM Portfolio",
+  "description": "Portfolio of Hitarth Baldha, an AI-native Product Manager and builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
